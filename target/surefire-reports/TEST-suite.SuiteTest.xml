@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="81.157" errors="0" skipped="0" tests="1" name="suite.SuiteTest">
+<testsuite failures="0" time="84.872" errors="0" skipped="0" tests="1" name="suite.SuiteTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib"/>
@@ -25,7 +25,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/PC1073/Documents/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf3118454588812448347.tmp"/>
+    <property name="classworlds.conf" value="/Users/PC1073/Documents/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf6155820796385737761.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/PC1073/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -37,7 +37,7 @@
     <property name="user.timezone" value="Europe/Madrid"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
     <property name="java.specification.version" value="1.7"/>
-    <property name="file.encoding" value="US-ASCII"/>
+    <property name="file.encoding" value="UTF-8"/>
     <property name="user.name" value="PC1073"/>
     <property name="java.class.path" value="/Users/PC1073/Downloads/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.0.20140605-2032/jars/plexus-classworlds-2.5.1.jar"/>
     <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
@@ -62,5 +62,5 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="81.157" classname="Test.YesFmMovil" name="testCases"/>
+  <testcase time="84.872" classname="Test.YesFmMovil" name="testCases"/>
 </testsuite>
